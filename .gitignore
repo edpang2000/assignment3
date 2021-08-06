@@ -1,2 +1,6 @@
 /pp-monthly-update-new-version.csv
 /venv
+.vscode/launch.json
+out2-00000-of-00001
+.gitignore
+out-00000-of-00001
